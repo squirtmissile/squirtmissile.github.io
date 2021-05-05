@@ -1864,6 +1864,21 @@ section {
     text-align: center;
     color: #000;
   }
+  .logo-img {
+    display: none;
+  }
+  #header {
+    padding: 0;
+  }
+  .hero-logo {
+    margin-top: -100px;
+  }  
+  .counts .count-box span {
+    font-size: 12px;
+  }
+  .counts .count-box {
+    padding: 30px 0 25px 0;
+  }
 }
 @media (min-width: 768px) {
   .align-d {
