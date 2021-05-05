@@ -884,7 +884,7 @@ section {
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  padding: 70px 0 60px;
+  padding: 10px 0 30px;
 }
 
 .counts .count-box {
@@ -1894,6 +1894,9 @@ section {
   }
   .header-float-spacer {
     padding-top: 122px;
+  }
+  .counts {
+    padding: 70px 0 60px;
   }
 }
 
