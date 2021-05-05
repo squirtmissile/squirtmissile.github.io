@@ -1891,6 +1891,9 @@ section {
   .justify-content-space-between {
     justify-content: space-between;
   }
+  .header-float-spacer {
+    padding-top: 122px !important;
+  }
 }
 
 
