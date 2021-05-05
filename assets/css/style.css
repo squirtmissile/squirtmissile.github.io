@@ -183,6 +183,9 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
+.header-float-spacer {
+  padding-top: 60px;
+}
 #header {
   background: transparent;
   transition: all 0.5s;
@@ -1888,6 +1891,9 @@ section {
   }
   .justify-content-space-between {
     justify-content: space-between;
+  }
+  .header-float-spacer {
+    padding-top: 122px;
   }
 }
 
